@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/khanhduy74105/davici-web-app.git
+[submodule "server"]
+	path = server
+	url = https://github.com/khanhduy74105/divici-web-app.git
